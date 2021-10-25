@@ -7,7 +7,7 @@ class PlaceApiProvider {
   PlaceApiProvider(this.sessionToken);
 
   final String sessionToken;
-  final apiKey = "AIzaSyD9k3XplR2oAGgr1cCw-FWKpReNorIyJB4";
+  final apiKey = "";
 
   http.Request createGetRequest(String url) => http.Request('GET', Uri.parse(url));
 

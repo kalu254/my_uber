@@ -4,7 +4,7 @@
         android:label="auto2_comp"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyD9k3XplR2oAGgr1cCw-FWKpReNorIyJB4"/>
+               android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
